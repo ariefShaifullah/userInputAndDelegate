@@ -12,6 +12,7 @@
 		50942A09228D0D8800A5F3BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50942A07228D0D8800A5F3BB /* Main.storyboard */; };
 		50942A0B228D0D8900A5F3BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50942A0A228D0D8900A5F3BB /* Assets.xcassets */; };
 		50942A0E228D0D8900A5F3BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50942A0C228D0D8900A5F3BB /* LaunchScreen.storyboard */; };
+		50942A16228D1D5C00A5F3BB /* ConfirmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50942A15228D1D5C00A5F3BB /* ConfirmViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		50942A0A228D0D8900A5F3BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50942A0D228D0D8900A5F3BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50942A0F228D0D8900A5F3BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50942A15228D1D5C00A5F3BB /* ConfirmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				50942A03228D0D8800A5F3BB /* AppDelegate.swift */,
 				50942A05228D0D8800A5F3BB /* ViewController.swift */,
 				50942A07228D0D8800A5F3BB /* Main.storyboard */,
+				50942A15228D1D5C00A5F3BB /* ConfirmViewController.swift */,
 				50942A0A228D0D8900A5F3BB /* Assets.xcassets */,
 				50942A0C228D0D8900A5F3BB /* LaunchScreen.storyboard */,
 				50942A0F228D0D8900A5F3BB /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				50942A16228D1D5C00A5F3BB /* ConfirmViewController.swift in Sources */,
 				50942A06228D0D8800A5F3BB /* ViewController.swift in Sources */,
 				50942A04228D0D8800A5F3BB /* AppDelegate.swift in Sources */,
 			);
